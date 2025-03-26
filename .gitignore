@@ -3,3 +3,7 @@
 
 ## config file
 /ip_analyzer.conf
+
+## txt files
+/ips.txt
+/report.txt
