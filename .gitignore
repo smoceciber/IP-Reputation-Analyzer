@@ -1,0 +1,5 @@
+## cache dir
+/__pycache__
+
+## config file
+/ip_analyzer.conf
